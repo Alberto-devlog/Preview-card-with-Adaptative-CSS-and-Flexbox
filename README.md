@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Github Solution](https://github.com/Alberto-devlog/Preview-card-with-Adaptative-CSS-and-Flexbox)
+- [Live page]( https://alberto-devlog.github.io/Preview-card-with-Adaptative-CSS-and-Flexbox/)
 
 ## My process
 
